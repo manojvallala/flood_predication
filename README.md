@@ -7,11 +7,10 @@
 - ✅ Data visualization using Matplotlib/Seaborn
 - ✅ Final comparison of model performances
 
----
 
 ## Models Implemented
 
-> *(Depending on your notebook, you can include only the ones used)*
+
 
 - Logistic Regression
 - Decision Tree
@@ -19,14 +18,11 @@
 - Support Vector Machine (SVM)
 - K-Nearest Neighbors (KNN)
 - Naive Bayes
-- XGBoost / Gradient Boosting (optional)
-
----
+- XGBoost 
 
 ## Evaluation Metrics
 
 - Confusion Matrix
 - Accuracy Score
 - Precision, Recall, F1-score
-- ROC-AUC (if applied)
-- Cross-validation (optional)
+
